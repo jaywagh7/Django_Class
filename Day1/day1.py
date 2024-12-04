@@ -1,0 +1,1 @@
+#First day of django class is
