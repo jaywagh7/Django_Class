@@ -1,0 +1,41 @@
+C:\Users\akans\Work\ITC Education\Django-Class-3>git branch
+* main
+
+C:\Users\akans\Work\ITC Education\Django-Class-3>git status 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Day11/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\akans\Work\ITC Education\Django-Class-3>git add .
+
+C:\Users\akans\Work\ITC Education\Django-Class-3>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   Day11/test.py
+
+
+C:\Users\akans\Work\ITC Education\Django-Class-3>git commit -m "[Add] Day 11"
+[main 2a24835] [Add] Day 11
+ 1 file changed, 1 insertion(+)
+ create mode 100644 Day11/test.py
+
+C:\Users\akans\Work\ITC Education\Django-Class-3>git push origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (4/4), 328 bytes | 328.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/akanshabaishwade/Django-Class-3.git
+   0cc2eae..2a24835  main -> main
+
+C:\Users\akans\Work\ITC Education\Django-Class-3>
