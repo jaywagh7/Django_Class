@@ -13,7 +13,7 @@ This project was created as part of the Django Basics examination conducted by *
 ## Project Details
 
 ### Section A: Multiple Choice Questions (50 Marks)
-The theoretical part of the exam tested foundational knowledge of Django. The answers to all multiple-choice questions are included in the `answers.pdf` file in this repository.
+The theoretical part of the exam tested foundational knowledge of Django. The answers to all multiple-choice questions are included in the `Exam-1 (Jayesh Wagh).pdf` file in this repository.
 
 ### Section B: Practical Task (50 Marks)
 The practical task involved creating a Django project and implementing specific requirements. Below are the details of the task.
